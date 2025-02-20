@@ -30,4 +30,5 @@ O script cria um **servidor TCP** que:
 ### **1️⃣ Clonar o Repositório**  
 ```bash
 git clone https://github.com/seuusuario/CyberTestTools.git
-cd CyberTestTools/port_listener
+cd CyberTestTools/servidor666
+python servidor.py
